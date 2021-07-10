@@ -5,4 +5,4 @@ Application mobile développée lors de la formation Apple Foundation Program av
 
 ![ScreenShot](https://github.com/amandine-dev/Geodex/blob/master/Screenshot/Capture%20d%E2%80%99e%CC%81cran%202021-06-30%20a%CC%80%2010.36.46.png)
 
-<img src="https://github.com/amandine-dev/Geodex/blob/master/Screenshot/Capture%20d%E2%80%99e%CC%81cran%202021-06-30%20a%CC%80%2010.36.46.png" width="100" height="100"/>
+<img src="https://github.com/amandine-dev/Geodex/blob/master/Screenshot/Capture%20d%E2%80%99e%CC%81cran%202021-06-30%20a%CC%80%2010.36.46.png" width="200">
